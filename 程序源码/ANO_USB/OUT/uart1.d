@@ -1,0 +1,17 @@
+.\out\uart1.o: APP\UART\Uart1.c
+.\out\uart1.o: APP\UART\uart1.h
+.\out\uart1.o: .\LIB\stm32f10x.h
+.\out\uart1.o: .\LIB\core_cm3.h
+.\out\uart1.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\out\uart1.o: .\LIB\system_stm32f10x.h
+.\out\uart1.o: .\LIB\stm32f10x_conf.h
+.\out\uart1.o: .\LIB\stm32f10x_gpio.h
+.\out\uart1.o: .\LIB\stm32f10x.h
+.\out\uart1.o: .\LIB\stm32f10x_rcc.h
+.\out\uart1.o: .\LIB\stm32f10x_spi.h
+.\out\uart1.o: .\LIB\stm32f10x_tim.h
+.\out\uart1.o: .\LIB\stm32f10x_usart.h
+.\out\uart1.o: .\LIB\misc.h
+.\out\uart1.o: ..\ANO_USB\bsp/usart.h
+.\out\uart1.o: ..\ANO_USB\bsp/usart.h
+.\out\uart1.o: ..\ANO_USB\app/rc/rc.h

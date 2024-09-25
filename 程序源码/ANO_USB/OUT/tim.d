@@ -1,0 +1,14 @@
+.\out\tim.o: BSP\Tim.c
+.\out\tim.o: BSP\tim.h
+.\out\tim.o: .\LIB\stm32f10x.h
+.\out\tim.o: .\LIB\core_cm3.h
+.\out\tim.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\out\tim.o: .\LIB\system_stm32f10x.h
+.\out\tim.o: .\LIB\stm32f10x_conf.h
+.\out\tim.o: .\LIB\stm32f10x_gpio.h
+.\out\tim.o: .\LIB\stm32f10x.h
+.\out\tim.o: .\LIB\stm32f10x_rcc.h
+.\out\tim.o: .\LIB\stm32f10x_spi.h
+.\out\tim.o: .\LIB\stm32f10x_tim.h
+.\out\tim.o: .\LIB\stm32f10x_usart.h
+.\out\tim.o: .\LIB\misc.h

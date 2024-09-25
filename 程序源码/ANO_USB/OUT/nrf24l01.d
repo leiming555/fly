@@ -1,0 +1,15 @@
+.\out\nrf24l01.o: BSP\Nrf24l01.C
+.\out\nrf24l01.o: BSP\nrf24l01.h
+.\out\nrf24l01.o: .\LIB\stm32f10x.h
+.\out\nrf24l01.o: .\LIB\core_cm3.h
+.\out\nrf24l01.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\out\nrf24l01.o: .\LIB\system_stm32f10x.h
+.\out\nrf24l01.o: .\LIB\stm32f10x_conf.h
+.\out\nrf24l01.o: .\LIB\stm32f10x_gpio.h
+.\out\nrf24l01.o: .\LIB\stm32f10x.h
+.\out\nrf24l01.o: .\LIB\stm32f10x_rcc.h
+.\out\nrf24l01.o: .\LIB\stm32f10x_spi.h
+.\out\nrf24l01.o: .\LIB\stm32f10x_tim.h
+.\out\nrf24l01.o: .\LIB\stm32f10x_usart.h
+.\out\nrf24l01.o: .\LIB\misc.h
+.\out\nrf24l01.o: BSP\spi.h

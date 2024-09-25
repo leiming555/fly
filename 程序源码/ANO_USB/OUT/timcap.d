@@ -1,0 +1,15 @@
+.\out\timcap.o: APP\SYS\TIMCap.c
+.\out\timcap.o: APP\SYS\TIMCap.h
+.\out\timcap.o: .\LIB\stm32f10x.h
+.\out\timcap.o: .\LIB\core_cm3.h
+.\out\timcap.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\out\timcap.o: .\LIB\system_stm32f10x.h
+.\out\timcap.o: .\LIB\stm32f10x_conf.h
+.\out\timcap.o: .\LIB\stm32f10x_gpio.h
+.\out\timcap.o: .\LIB\stm32f10x.h
+.\out\timcap.o: .\LIB\stm32f10x_rcc.h
+.\out\timcap.o: .\LIB\stm32f10x_spi.h
+.\out\timcap.o: .\LIB\stm32f10x_tim.h
+.\out\timcap.o: .\LIB\stm32f10x_usart.h
+.\out\timcap.o: .\LIB\misc.h
+.\out\timcap.o: ..\ANO_USB\app/rc/rc.h

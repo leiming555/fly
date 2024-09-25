@@ -1,0 +1,14 @@
+.\out\misc.o: LIB\misc.c
+.\out\misc.o: LIB\misc.h
+.\out\misc.o: LIB\stm32f10x.h
+.\out\misc.o: LIB\core_cm3.h
+.\out\misc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\out\misc.o: LIB\system_stm32f10x.h
+.\out\misc.o: LIB\stm32f10x_conf.h
+.\out\misc.o: LIB\stm32f10x_gpio.h
+.\out\misc.o: LIB\stm32f10x.h
+.\out\misc.o: LIB\stm32f10x_rcc.h
+.\out\misc.o: LIB\stm32f10x_spi.h
+.\out\misc.o: LIB\stm32f10x_tim.h
+.\out\misc.o: LIB\stm32f10x_usart.h
+.\out\misc.o: LIB\misc.h
